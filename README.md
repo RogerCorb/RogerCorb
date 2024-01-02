@@ -1,6 +1,6 @@
 # Olá Pessoal ! 🙎‍♂️
 
-Meu nome é Rogério corbo, atualmente estou em transição de carreira para a área de **desenvolvedor de software Back-end** , utilizando as tecnologias Javascript,Node.js,Express,APIRest,Java,C++. Tenho desejo de trabalhar  também como **desenvolvedor FullStack**.
+Meu nome é Rogério corbo, atualmente estou em transição de carreira para a área de **desenvolvedor de software Back-end** , utilizando as tecnologias Javascript,Node.js,Express,APIRest,Java,C++,C#,.NET,Asp.Net. Tenho desejo de trabalhar  também como **desenvolvedor FullStack**.
 
 ## 💻Para me encontrar:
 [![likedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rogerio-corbo-1982a877)
