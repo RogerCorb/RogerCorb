@@ -21,5 +21,4 @@ Meu nome é Rogério corbo, atualmente estou em transição de carreira para a �
 ![VisualStudio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![NetBeans](https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white)
 
-!TOP Linguagens
-
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=RogerCorb&layout=compact&theme=dracula)
