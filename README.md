@@ -5,7 +5,8 @@ Meu nome é Rogério corbo, atualmente estou em transição de carreira para a �
 ## 🖥️Portfólio
 https://rogercorb.github.io/lojaonline/ <br>
 https://rogercorb.github.io/decodificador-textos/ <br>
-https://rogercorb.github.io/Jogo-Html/
+https://rogercorb.github.io/Jogo-Html/ <br>
+https://rogercorb.github.io/exercicio4/
 
 ## 💻Para me encontrar:
 [![likedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rogerio-corbo-1982a877)
