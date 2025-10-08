@@ -1,6 +1,6 @@
 # Olá Pessoal ! 🙎‍♂️
 
-Meu nome é Rogério corbo, atualmente estou em transição de carreira para a área de **desenvolvedor de software Back-end** , utilizando as tecnologias Javascript,Node.js,Express,APIRest,Java,C++,C#,.NET,Asp.Net. Tenho desejo de trabalhar  também como **desenvolvedor FullStack**.
+Meu nome é Rogério corbo, atuo como dev backend em projetos free-lancer, atualmente estou me aprofundando em **dev fullstack**, utilizo as tecnologias Javascript,Typescript,React,Nest.js,Node.js,Express,APIRest e Java em meus projetos e nos meus estudos do dia a dia, uso e trabalho bastante com banco de dados relacional utilizando o postgreeSql.
 
 ## 🖥️Portfólio
 https://rogercorb.github.io/lojaonline/ <br>
