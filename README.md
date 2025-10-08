@@ -22,6 +22,7 @@ https://rogercorb.github.io/exercicio4/
 ![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Angular](	https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![MySql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Typescript](https://img.shields.io/badge/Typescript-323330?style=for-the-badge&logo=typescript&logoColor=F7DF1E)
 
 ## 🖥️Ide:
 ![VsCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
