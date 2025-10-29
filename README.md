@@ -3,6 +3,7 @@
 Meu nome é Rogério corbo, atuo como **dev backend** em projetos free-lancer, atualmente estou me aprofundando em **dev fullstack**, utilizo as tecnologias Javascript,Typescript,React,Nest.js,Node.js,Express,APIRest e Java em meus projetos e nos meus estudos do dia a dia, uso e trabalho bastante com banco de dados relacional utilizando o postgreeSql.
 
 ## 🖥️Portfólio
+https://rogercorb.github.io/pomodoro/ <br>
 https://rogercorb.github.io/verde-acao/ <br>
 https://rogercorb.github.io/lojaonline/ <br>
 https://rogercorb.github.io/pearson/ <br>
